@@ -1,1 +1,2 @@
-
+This file is edited from git hub ui.
+These changes are made to see the merge confilct.
